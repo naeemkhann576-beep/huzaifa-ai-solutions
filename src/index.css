@@ -44,6 +44,9 @@
     --primary: 214 95% 45%;
     --primary-foreground: 0 0% 100%;
     --primary-glow: 214 100% 55%;
+
+    /* Neon blue accent (Tailwind blue-600: #2563eb) */
+    --neon: 221.2 83.2% 53.3%;
     
     /* Secondary tones - more contrast */
     --secondary: 214 20% 92%;

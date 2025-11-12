@@ -115,7 +115,7 @@ const SkillsSection = () => {
                       <span className="text-sm font-medium text-muted-foreground group-hover:text-primary transition-colors duration-300">
                         {skill.name}
                       </span>
-                      <span className="text-sm font-semibold text-primary">
+                      <span className="text-sm font-semibold text-neon">
                         {skill.level}%
                       </span>
                     </div>
@@ -129,11 +129,11 @@ const SkillsSection = () => {
                         viewport={{ once: true }}
                         className="h-full rounded-full transition-all duration-500 relative overflow-hidden"
                         style={{
-                          background: 'hsl(var(--primary))',
+                          background: 'hsl(var(--neon))',
                           boxShadow: `
-                            0 0 15px hsl(var(--primary) / 0.8),
-                            0 0 25px hsl(var(--primary) / 0.6),
-                            0 0 35px hsl(var(--primary) / 0.4),
+                            0 0 15px hsl(var(--neon) / 0.8),
+                            0 0 25px hsl(var(--neon) / 0.6),
+                            0 0 35px hsl(var(--neon) / 0.4),
                             inset 0 1px 3px rgba(255, 255, 255, 0.7)
                           `,
                         }}
