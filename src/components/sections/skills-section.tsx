@@ -121,7 +121,7 @@ const SkillsSection = () => {
                     </div>
 
                     {/* Progress Bar */}
-                    <div className="relative w-full h-2.5 rounded-full overflow-hidden bg-muted">
+                    <div className="relative w-full h-2.5 rounded-full overflow-hidden bg-neon/15 border border-neon/30">
                       <motion.div
                         initial={{ width: 0 }}
                         whileInView={{ width: `${skill.level}%` }}
