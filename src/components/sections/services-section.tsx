@@ -6,6 +6,7 @@ import {
   Lightbulb,
   Users,
   Zap,
+  Video,
 } from "lucide-react";
 
 const ServicesSection = () => {
@@ -41,7 +42,7 @@ const ServicesSection = () => {
       description: "Automate repetitive tasks and streamline business processes with AI",
     },
     {
-      icon: bot,
+      icon: Video,
       title: "AI Videos & Image Generation",
       description: "Creating an Generating Viral AI Videos for Faceless Content Creation",
     },
