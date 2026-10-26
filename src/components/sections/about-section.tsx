@@ -14,12 +14,18 @@ const AboutSection = () => {
       year: "2024",
       title: "Intermediate in Computer Science",
       institution: "DJ Science College",
-      status: "Ongoing",
+      status: "Completed",
+    },
+    {
+      year: "2025",
+      title: "Web Development/Wordpress",
+      institution: "Aptech",
+      status: "Completed",
     },
     {
       year: "2024",
       title: "Agentic AI Engineer/Developer",
-      institution: "PIAIC",
+      institution: "PIAIC & Panaversity",
       status: "Ongoing",
     },
   ];
