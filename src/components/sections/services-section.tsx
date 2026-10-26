@@ -44,7 +44,7 @@ const ServicesSection = () => {
     {
       icon: Video,
       title: "AI Videos & Image Generation",
-      description: "Creating an Generating Viral AI Videos for Faceless Content Creation",
+      description: "AI-generated videos and images for engaging social media content, faceless channels, and creative projects",
     },
   ];
 
