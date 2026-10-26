@@ -115,10 +115,12 @@ const ProjectsSection = () => {
     },
     {
       id: 11,
-      title: "AI Chat Assistant",
-      description: "Conversational AI for customer support",
-      image: "💬",
-      details: "Intelligent chatbot solution for businesses to automate customer support, handle inquiries, and provide 24/7 assistance.",
+      title: "Contentflow AI",
+      description: "An AI-powered YouTube content creation assistant that transforms video topics into ready-to-use content ideas.",
+      image: "🎬",
+      details: "An AI-powered YouTube content creation assistant that transforms video topics into ready-to-use content ideas.
+
+CreatorFlow AI helps content creators simplify their YouTube planning workflow by generating titles, descriptions, thumbnail concepts",
       technologies: ["Python", "OpenAI", "Gemini API"],
       githubUrl: "https://github.com/Huzafi/AI_Chat_Assistant-Agent",
       liveUrl: "https://agentic-ai-bo.streamlit.app/",
