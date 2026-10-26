@@ -118,12 +118,10 @@ const ProjectsSection = () => {
       title: "Contentflow AI",
       description: "An AI-powered YouTube content creation assistant that transforms video topics into ready-to-use content ideas.",
       image: "🎬",
-      details: "An AI-powered YouTube content creation assistant that transforms video topics into ready-to-use content ideas.
-
-CreatorFlow AI helps content creators simplify their YouTube planning workflow by generating titles, descriptions, thumbnail concepts",
-      technologies: ["Python", "OpenAI", "Gemini API"],
-      githubUrl: "https://github.com/Huzafi/AI_Chat_Assistant-Agent",
-      liveUrl: "https://agentic-ai-bo.streamlit.app/",
+      details: "An AI-powered YouTube content creation assistant that transforms video topics into ready-to-use content ideas.CreatorFlow AI helps content creators simplify their YouTube planning workflow by generating titles, descriptions, thumbnail concepts",
+      technologies: ["Prompt Engineering", "WebApp", "Puter.js"],
+      githubUrl: "https://github.com/Huzafi/Contentflow-Webapp",
+      liveUrl: "https://contentflow-ai.puter.site/",
     },
   ];
 
