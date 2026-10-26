@@ -41,7 +41,7 @@ const ServicesSection = () => {
       description: "Automate repetitive tasks and streamline business processes with AI",
     },
     {
-      icon: Video,
+      icon: bot,
       title: "AI Videos & Image Generation",
       description: "Creating an Generating Viral AI Videos for Faceless Content Creation",
     },
