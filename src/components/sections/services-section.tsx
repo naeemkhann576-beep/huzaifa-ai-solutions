@@ -40,6 +40,11 @@ const ServicesSection = () => {
       title: "Process Optimization",
       description: "Automate repetitive tasks and streamline business processes with AI",
     },
+    {
+      icon: Video,
+      title: "AI Videos & Image Generation",
+      description: "Creating an Generating Viral AI Videos for Faceless Content Creation",
+    },
   ];
 
   const containerVariants = {
