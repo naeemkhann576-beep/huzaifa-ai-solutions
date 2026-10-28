@@ -92,7 +92,7 @@ const ContactSection = () => {
     {
       name: "Direct Email",
       icon: Mail,
-      url: "mailto:huzai567823@gmail.com",
+      url: "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=lqrsmDqKnBVxZFqZpBlsNKMnJKlhhGGwggVBBRHQXwxKMFxrvzpZlsDCQVxvmTTGpBBKjkBmrGNccxZWT",
     },
   ];
 
