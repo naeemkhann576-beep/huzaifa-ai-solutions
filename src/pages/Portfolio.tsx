@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import Navigation from "../components/ui/navigation";
 import HeroSection from "../components/sections/hero-section";
 import AboutSection from "../components/sections/about-section";
+import CertificationsSection from "../components/sections/certifications-section";
 import SkillsSection from "../components/sections/skills-section";
 import ServicesSection from "../components/sections/services-section";
 import ProjectsSection from "../components/sections/projects-section";
