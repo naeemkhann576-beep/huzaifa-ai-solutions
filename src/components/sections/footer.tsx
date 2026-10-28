@@ -9,6 +9,7 @@ const Footer = ({ onSectionClick }: FooterProps) => {
   const quickLinks = [
     { id: "home", label: "Home" },
     { id: "about", label: "About" },
+    { id: "certifications", label: "Certifications" },
     { id: "projects", label: "Projects" },
     { id: "services", label: "Services" },
     { id: "contact", label: "Contact" },

@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import Navigation from "../components/ui/navigation";
 import HeroSection from "../components/sections/hero-section";
 import AboutSection from "../components/sections/about-section";
+import CertificationsSection from "../components/sections/certifications-section";
 import SkillsSection from "../components/sections/skills-section";
 import ServicesSection from "../components/sections/services-section";
 import ProjectsSection from "../components/sections/projects-section";
@@ -21,7 +22,7 @@ const Portfolio = () => {
 
   useEffect(() => {
     const handleScroll = () => {
-      const sections = ["home", "about", "skills", "services", "projects", "contact"];
+      const sections = ["home", "about", "certifications", "skills", "services", "projects", "contact"];
       const scrollPosition = window.scrollY + 100;
 
       for (const sectionId of sections) {
@@ -59,6 +60,7 @@ const Portfolio = () => {
       <Navigation activeSection={activeSection} onSectionClick={handleSectionClick} />
       <HeroSection onSectionClick={handleSectionClick} />
       <AboutSection />
+      <CertificationsSection />
       <SkillsSection />
       <ServicesSection />
       <ProjectsSection />
