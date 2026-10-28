@@ -46,9 +46,9 @@ const ProjectsSection = () => {
     {
       id: 4,
       title: "LinkedIn Automation Agent",
-      description: "Automated LinkedIn outreach and networking",
+      description: "An Agent That Automatically Create and Publish Your Post",
       image: "🔗",
-      details: "Automation tool for LinkedIn that helps with connection requests, messaging, and profile optimization while maintaining authenticity.",
+      details: "An AI-powered LinkedIn automation agent built with n8n that generates professional posts and automatically publishes them to your LinkedIn account, streamlining content creation and social media management.",
       technologies: ["n8n", "LinkedIn API", "Automation workfow"],
       githubUrl: "https://github.com/Huzafi/n8n_Automation_Projects/tree/main/01-LinkedIn-Automation",
       liveUrl: "https://drive.google.com/file/d/18WcuY6IO2oIkjmg9iKviYzB5MMN8pHs6/view",
