@@ -22,7 +22,7 @@ const Portfolio = () => {
 
   useEffect(() => {
     const handleScroll = () => {
-      const sections = ["home", "about", "skills", "services", "projects", "contact"];
+      const sections = ["home", "about", "certifications", "skills", "services", "projects", "contact"];
       const scrollPosition = window.scrollY + 100;
 
       for (const sectionId of sections) {
@@ -60,6 +60,7 @@ const Portfolio = () => {
       <Navigation activeSection={activeSection} onSectionClick={handleSectionClick} />
       <HeroSection onSectionClick={handleSectionClick} />
       <AboutSection />
+      <CertificationsSection />
       <SkillsSection />
       <ServicesSection />
       <ProjectsSection />
