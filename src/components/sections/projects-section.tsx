@@ -106,7 +106,7 @@ const ProjectsSection = () => {
     {
       id: 10,
       title: "Food Ordering Agent",
-      description: "Real-time currency converter with live exchange rates",
+      description: "Real-time Food Order Through AI Chat",
       image: "🍔",
       details: "An AI-powered food ordering assistant built with ElevenLabs, n8n, and Google Sheets to demonstrate conversational ordering, menu discovery, delivery validation, customer management, and order processing.",
       technologies: ["Python", "n8n", "Elevenlabs"],
