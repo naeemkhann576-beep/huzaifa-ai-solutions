@@ -29,7 +29,7 @@ const certificates = [
     title: "Working with Content Management System",
     issuer: "Aptech",
     year: "2025",
-    image: wordpressCert.url,
+    image: wordpressCert,
   },
 ];
 
