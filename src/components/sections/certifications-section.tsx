@@ -1,17 +1,17 @@
 import { useState, useEffect, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Award, ZoomIn, X } from "lucide-react";
-import agenticAiCert from "@/assets/certificate-agentic-ai.png.asset.json";
-import promptEngineerCert from "@/assets/certificate-prompt-engineer.png.asset.json";
-import pythonCert from "@/assets/certificate-python.png.asset.json";
-import wordpressCert from "@/assets/certificate-wordpress-cms.png.asset.json";
+import agenticAiCert from "@/assets/certificate-agentic-ai.png";
+import promptEngineerCert from "@/assets/certificate-prompt-engineer.png";
+import pythonCert from "@/assets/certificate-python.png";
+import wordpressCert from "@/assets/certificate-wordpress-cms.png";
 
 const certificates = [
   {
     title: "Agentic AI Level 1 Developer",
     issuer: "PIAIC",
     year: "2026",
-    image: agenticAiCert.url,
+    image: agenticAiCert,
   },
   {
     title: "Prompt Engineer",
