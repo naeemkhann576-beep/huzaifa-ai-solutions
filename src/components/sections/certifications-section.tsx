@@ -17,13 +17,13 @@ const certificates = [
     title: "Prompt Engineer",
     issuer: "PIAIC",
     year: "2026",
-    image: promptEngineerCert.url,
+    image: promptEngineerCert,
   },
   {
     title: "Python Development and Programming",
     issuer: "Aptech",
     year: "2025",
-    image: pythonCert.url,
+    image: pythonCert,
   },
   {
     title: "Working with Content Management System",
