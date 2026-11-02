@@ -120,7 +120,7 @@ const ContactSection = () => {
           {/* Contact Form */}
           <motion.div
             className="space-y-6"
-            initial={{ opacity: 0, x: -30 }}
+            initial={{ opacity: 0, x: -20 }}
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.6, delay: 0.2 }}
@@ -187,7 +187,7 @@ const ContactSection = () => {
           {/* Contact Info & Social Links */}
           <motion.div
             className="space-y-6"
-            initial={{ opacity: 0, x: 30 }}
+            initial={{ opacity: 0, x: 20 }}
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.6, delay: 0.4 }}
