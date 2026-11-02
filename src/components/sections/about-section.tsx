@@ -89,12 +89,18 @@ const AboutSection = () => {
                 processes faster, smarter and more reliable.
               </p>
               <p className="text-base leading-relaxed text-muted-foreground">
-                My recent projects span agent development and workflow
-                automation — WhatsApp, Gmail, LinkedIn and GitHub agents, a
-                YouTube transcript agent, a resume analyzer and AI writing
-                tools. I'm currently training as an Agentic AI Engineer through
-                PIAIC &amp; Panaversity, building on my certifications in
-                Agentic AI development and prompt engineering.
+                My work focuses on building AI-powered solutions that address
+                real-world problems, simplify complex business processes, and
+                reduce repetitive manual tasks. I explore how intelligent
+                agents, automation, and modern software can help businesses
+                improve efficiency, streamline operations, and turn complex
+                workflows into simpler, more practical solutions.
+              </p>
+              <p className="text-base leading-relaxed text-muted-foreground">
+                Through my ongoing training in Agentic AI with PIAIC and
+                Panaversity, I continue to strengthen my skills and develop
+                solutions that connect emerging AI technologies with real
+                business needs.
               </p>
             </motion.div>
 
