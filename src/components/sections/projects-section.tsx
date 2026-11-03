@@ -106,7 +106,7 @@ const ProjectsSection = () => {
     {
       id: 10,
       title: "Food Ordering Agent",
-      description: "Real-time Food Order Through AI Chat",
+      description: "An AI-powered food ordering agent built with ElevenLabs, n8n, and Google Sheets",
       image: "🍔",
       details: "An AI-powered food ordering assistant built with ElevenLabs, n8n, and Google Sheets to demonstrate conversational ordering, menu discovery, delivery validation, customer management, and order processing.",
       technologies: ["Python", "n8n", "Elevenlabs"],
